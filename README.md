@@ -2,5 +2,5 @@
 
 Meu nome é Rayssa
 
-- Estou estudando na {Alura}(https://www.alura.com.br)
+- Estudante da Alura
 - Estou me desenvolvendo na linguagem JavaScript
